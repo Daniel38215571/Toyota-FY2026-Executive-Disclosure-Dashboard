@@ -24,6 +24,28 @@ A source-linked analytical workbook covering:
 - **Data dictionary** — definitions, units, and reporting basis documented for every field
 - **No fabrication** — no interpolated, estimated, or modeled values
 
+## Workbook sheets
+
+**Source Data**
+
+![Source Data](01_source_data.png)
+
+**KPI Summary**
+
+![KPI Summary](02_kpi_summary.png)
+
+**Analysis**
+
+![Analysis](03_analysis.png)
+
+**Data Dictionary**
+
+![Data Dictionary](04_data_dictionary.png)
+
+**Source Register**
+
+![Source Register](05_source_register.png)
+
 ## Structure
 
 - `data/` — source data extracted from Toyota FY2026 Financial Summary
