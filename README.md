@@ -1,5 +1,7 @@
 # Toyota FY2026 Executive Disclosure Dashboard
 
+![Toyota FY2026 Executive Dashboard](Dashboard_preview.png)
+
 > **Thesis:** Every number in an executive dashboard should trace to a primary source. This dashboard presents Toyota's FY2026 consolidated results with every KPI reconciled to the official SEC EDGAR filing.
 
 Executive financial dashboard built from Toyota's FY2026 Financial Summary (FY ended March 31, 2026), consolidated IFRS. All figures are sourced from the official filing — no interpolated or estimated values.
